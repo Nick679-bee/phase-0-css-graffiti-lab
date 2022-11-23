@@ -1,1 +1,19 @@
-/* write your override styles here */
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+  
+  #wall .tag-1 {
+    display: none;
+  }
+  div#tag-5{
+    font-weight: normal;
+    font-size: 12px;
+    color: black;
+ }
+ div#tag-4{
+    font-weight: normal;
+    font-size: 13px;
+    color: rgb(228, 34, 34);
+ }
